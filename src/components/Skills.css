@@ -1,0 +1,26 @@
+.skills {
+    padding: 50px 20px;
+    background-color: #D6CC99;
+    color: #001524;
+    font-family: 'Georgia', serif;
+    text-align: center;
+  }
+  
+  .skills h2 {
+    color: #5E3023;
+    margin-bottom: 20px;
+  }
+  
+  .skill-category h3 {
+    color: #445D48;
+  }
+  
+  .skill-category ul {
+    list-style: none;
+    padding: 0;
+  }
+  
+  .skill-category li {
+    color: #001524;
+    margin: 5px 0;
+  }

@@ -9,6 +9,7 @@ function Navbar() {
       <ul className="navbar-menu">
         <li><Link to="/COGS125">Home</Link></li>
         <li><Link to="/projects">Projects</Link></li>
+        <li><Link to="/skills">Skills</Link></li>
       </ul>
     </nav>
   );
