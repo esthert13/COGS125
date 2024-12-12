@@ -14,7 +14,7 @@ function Home() {
         >
           <h2>Welcome!</h2>
           <p>
-            Please head over to "Projects" if you would like to see what I have worked on.
+            Please head over to "Projects" if you would like to see what I have worked on. "Skills" has extra info about me!
           </p>
         </motion.div>
         
