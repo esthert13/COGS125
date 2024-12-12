@@ -4,7 +4,7 @@ import './Projects.css';
 
 function Projects() {
   const projectData = [
-    {title: "Project 1", description: "This portfolio focuses on the usage of React. The current rendition utilizes framer motion to create interactive animations/designs and make the site look alive! It also has mobile layout compatibility."},
+    {title: "Project 1", description: "This portfolio focuses on the usage of React. The current rendition utilizes framer motion to create interactive animations/designs and make the site look alive! It also has mobile layout compatibility and more animations."},
     {title: "Project 2", description: "WIP"},
     {title: "Project 3", description: "WIP"},
   ];
