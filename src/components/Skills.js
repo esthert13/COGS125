@@ -3,8 +3,8 @@ import './Skills.css';
 
 function Skills() {
   const skills = [
-    {category: "Programming", items: ["JavaScript", "Python", "React", "D3.js"]},
-    {category: "Design", items: ["UI/UX Design", "Figma", "Adobe XD"]},
+    {category: "Programming", items: ["JavaScript", "Python", "React"]},
+    {category: "Design", items: ["UI/UX Design", "Figma", "Canva"]},
     {category: "Soft Skills", items: ["Problem-Solving", "Teamwork", "Communication"]}
   ];
 
